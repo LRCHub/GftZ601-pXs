@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "thank u, next",
+  "base_artist": "Ariana Grande",
+  "createdAt": "2026-01-04T08:40:28.202921Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "thank u, next",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/01_thank_u,_next_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "thank u, next",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/02_thank_u,_next_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "thank u, next - live",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/03_thank_u,_next_-_live_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "thank u, next (Instrumental)",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/04_thank_u,_next_(Instrumental)_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Thank U Next.",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/05_Thank_U_Next._Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "thank u, next",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/06_thank_u,_next_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Thank U, Next (Clean)",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/07_Thank_U,_Next_(Clean)_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Thank U, Next",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/08_Thank_U,_Next_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "thank u, next",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/09_thank_u,_next_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "thank u, next",
+      "artist": "アリアナ・グランデ",
+      "has_synced": true,
+      "path": "select/10_thank_u,_next_アリアナ・グランデ.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "thank u, next",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/11_thank_u,_next_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Thank U, Next",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/12_Thank_U,_Next_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "thank u, next (Kenji Remix)",
+      "artist": "Fly By Nightcore",
+      "has_synced": false,
+      "path": "select/13_thank_u,_next_(Kenji_Remix)_Fly_By_Nightcore.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "thank u, next - Acapella",
+      "artist": "Kurt Hugo Schneider feat. Sam Tsui, Alyson Stoner & Madilyn Bailey",
+      "has_synced": false,
+      "path": "select/14_thank_u,_next_-_Acapella_Kurt_Hugo_Schneider_feat._Sam_Tsui,_Alyson_Stoner_&_Madilyn_Bailey.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "thank u, next (Acapella)",
+      "artist": "Kurt Hugo Schneider",
+      "has_synced": false,
+      "path": "select/15_thank_u,_next_(Acapella)_Kurt_Hugo_Schneider.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Thank u, next",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/16_Thank_u,_next_Ariana_Grande.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "thank u, next",
+      "artist": "Ariana Grande",
+      "has_synced": false,
+      "path": "select/pl_01_thank_u,_next_Ariana_Grande.txt"
+    }
+  ]
+}
